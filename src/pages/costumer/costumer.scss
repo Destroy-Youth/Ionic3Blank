@@ -1,0 +1,26 @@
+page-costumer {
+    .wraper{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .wraper-1{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        background-color: chocolate;
+    }
+
+    .wraper-2{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        background-color: crimson;
+    }
+    .wraper-3{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        background-color: blue;
+    }
+}
